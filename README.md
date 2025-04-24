@@ -14,9 +14,7 @@ Email Address
 
 Phone Number
 
-Gender
-
-Address
+City
 
 Real-time form validation
 
@@ -27,6 +25,7 @@ Easy to integrate into larger AngularJS applications
 Clean and minimal design
 
 📸 Screenshot
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/a8e8cca6-db7b-418c-afea-4d3e4ca2e8a8" />
 
 🛠️ Technologies Used
 AngularJS (1.x)
