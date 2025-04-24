@@ -1,0 +1,29 @@
+.log{
+    padding: right 500px; ;
+    width: 20%;
+}
+
+label{
+    font-weight: bold;
+}
+input{
+    border-style: groove;
+    border-left-color: limegreen;
+    border-left-width: 5px;
+    border-left-style:solid;
+    width: 200px;
+    text-align:left;
+    font-size: small;
+    font-weight: lighter;
+    padding: 5px;
+    margin-bottom: 10px;
+ }
+
+ button{
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    padding: 2px
+ }
+
+ 
