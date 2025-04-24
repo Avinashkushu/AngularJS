@@ -1,4 +1,5 @@
 📝 User Registration Form (AngularJS)
+
 This is a simple web form built using AngularJS that allows users to submit their basic information. It demonstrates how to create a reactive form, validate user inputs, and handle form submissions in a clean and responsive UI.
 
 🚀 Features
